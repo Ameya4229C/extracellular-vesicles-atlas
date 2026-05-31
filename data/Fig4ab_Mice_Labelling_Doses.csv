@@ -1,0 +1,81 @@
+DOI,PubMed_ID,Year,Source title,Administration,Dye type,Dye,Dose (num_value),Dose units
+10.1002/jev2.12194,35230743,2022,Journal of Extracellular Vesicles,IV injection,lipid,DiR,10000000000,particles
+10.1016/j.celrep.2020.107881,32668250,2020,Cell Reports,IP (intraperitoneal) injection,lipid,DiR,10000000000,particles
+10.1002/jev2.12178,35005847,2022,Journal of Extracellular Vesicles,IV injection,RNA RT qPCR,SYBR,2000000000,particles
+10.1038/s42003-022-03598-0,35787656,2022,Communications Biology,IV injection,lipid,DiR,2000000000,particles
+,,,,IV injection,lipid,DiD,750000000000,particles 
+10.1039/d0bm01735c,33475633,2021,Biomaterials Science,IV injection,Contrast Agent,gold nanoparticles,121000000,particles / 200 microliter
+10.1002/adhm.202202453,36745771,2023,Advanced Healthcare Materials,IV injection,lipid,DIR ,100000000000,particles
+10.3390/pharmaceutics13030427,,2021,Pharmaceutics,IV injection,lipid,DiR,3000000000,particles
+10.1016/j.ymthe.2019.10.016,31757759,2020,Molecular Therapy,IV injection,lipid,DiD,30000000000,particles
+10.3390/cells9051273,32443895,2020,Cells,IV injection,lipid,DiR,600000000000,particles in 200 uL
+10.1080/20013078.2020.1779458,,2020,Journal of Extracellular Vesicles,IV injection,Fluoroscent,Cy7.5 labeled,800000000000,particles
+10.1002/jev2.12489,39016198,2024,Journal of Extracellular Vesicles,IV injection,Fluoroscent,IRDye 800CW,100000000000,particles in 100 uL
+,,,,IV injection,Luciferase,Nanoluc luciferase,500000000000,particles
+10.1016/j.jconrel.2018.12.022,30557650,2019,Journal of Controlled Release,IV injection,lipid,DiD,1000000000,particles/tumor
+,,,,,,,100000000,particles/tumor
+10.1016/j.ijpharm.2021.121263,34742829,2021,International Journal of Pharmaceutics,IV injection,Fluoroscent protein,iRFP,100000000000,particles / gram body weight
+10.1021/acsnano.7b04495,28960957,2017,ACS Nano,IV injection,Contrast Agent,gold,2800000000,particles
+10.1002/adhm.201801271,30997751,2019,Advanced Healthcare Materials,IP (intraperitoneal) injection,lipid,DiR,200000000000,particles per mouse in 200 uL saline
+,,,,,Fluoroscent,HiLyte,100000000000,particles / gram body weight
+,,,,,Fluoroscent protein,iRFP,100000000000,particles / gram body weight
+10.1016/j.bj.2024.100721,38636899,2024,Biomedical Journal,IV injection,Radio,Technetium-99m,20600000000,"particles / mL, "
+10.1016/j.biomaterials.2024.122502,38354518,2024,Biomaterials,IV injection,Fluoroscent,Alexa568,50000000000,particles / mL
+10.1016/j.jconrel.2023.12.021,38109946,2024,Journal of Controlled Release,IV injection,lipid,DiR,250000000000,particles
+10.3390/ijms24065258,,2023,International Journal of Molecular Sciences,IV injection,lipid,DiR,15000000000,particles
+,,,,,Fluoroscent,HiLyte,100000000000,particles / gram body weight
+10.1186/s13045-022-01266-8,35488312,2022,Journal of Hematology and Oncology,IV injection,lipid,DiR,80,micrograms
+10.1016/j.biomaterials.2020.120152,32505035,2020,Biomaterials,IV injection,lipid,DiR,100,micrograms
+10.1021/acs.analchem.8b01506,30178994,2018,Analytical Chemistry,IV injection,Fluoroscent,Cy7.5 labeled,20,ug
+,,,,IV injection,lipid,DiR,100,micrograms
+10.1016/j.biomaterials.2021.121000,34218049,2021,Biomaterials,IV injection,lipid,DIL,200,ug
+10.1002/adtp.201900111,32318623,2019,Advanced Therapeutics,IV injection,Fluoroscent,NIR fluorophore,10,nanomol eqivalents of NIR
+,,,,intratumorally,lipid,DiR,100,micrograms
+10.1016/j.xphs.2016.07.022,27649887,2017,Journal of Pharmaceutical Sciences,IV injection,radio,125I-labeled,5,ug
+,,,,IV injection,lipid,DiR,100,micrograms
+10.1021/acs.analchem.8b01506,30178994,2018,Analytical Chemistry,IV injection,Fluoroscent,MB 594 ,20,ug
+10.1016/j.bbagen.2018.02.001,29410228,2018,Biochimica et Biophysica Acta - General Subjects,IV injection,Fluoroscent,Cy5.5 labeled,10,ug
+10.1038/s41598-018-34557-7,30397255,2018,Scientific Reports,IV injection,lipid,DiR,20,ug
+10.1182/bloodadvances.2018024877,30591532,2019,Blood Advances,IV injection,Fluoroscent,Exo-red,30,ug
+,,,,,,Exo-green,30,ug
+,,,,intratumorally,lipid,DiR,100,micrograms
+10.1016/j.jconrel.2023.07.043,37517544,2023,Journal of Controlled Release,IV injection,lipid,DiR,10,ug
+10.1016/j.ijpharm.2018.07.067,30075248,2018,International Journal of Pharmaceutics,IV injection,radio,99Tc,250,ug exosome
+10.1016/j.jconrel.2020.01.042,31981658,2020,Journal of Controlled Release,IV injection,Fluoroscent,cyanine 5.5 N-hydroxysuccinimide (NHS) monoester,200,microliters
+10.1158/0008-5472.CAN-16-0868,27760789,2016,Cancer Research,IV injection,lipid,DiD,20,micrograms / mouse
+10.1016/j.canlet.2015.10.020,26604130,2016,Cancer Letters,Oral,lipid,DiR,60,mg/kg exo protein in 100uL
+10.1016/j.actbio.2019.10.022,31629893,2020,Acta Biomaterialia,IV injection,lipid,DiR,15,mg per kg bodyweight 
+10.1016/j.ejps.2020.105312,32198014,2020,European Journal of Pharmaceutical Sciences,IV injection,radio,99mTC-label,100,microliters of EVs at 1Mbq equivalent dose
+,,,,IV injection,radio,125I-labeled,5,ug
+10.1038/s41467-021-24273-8,34168137,2021,Nature Communications,Oral,lipid,DiR,25,miligrams / kilogram body weight
+,,,,IV injection,lipid,DiR,40,mg EV protein per kg in 100 uL
+10.1016/j.lfs.2020.118369,32882265,2020,Life Sciences,IV injection,lipid,,100,uL (equivalent concentrations of DOX: 5 mg/kg)
+10.1016/j.biomaterials.2020.120647,33450584,2021,Biomaterials,IV injection,Quantum dot,Ag2S Quantom Dots,4,mg quantum dots equivalents of EVs
+10.1124/jpet.119.257097,31061141,2019,Journal of Pharmacology and Experimental Therapeutics,retro orbital venous sinus injection,lipid,DiR,200,ug lipid/mouse
+10.2147/IJN.S182384,30538455,2018,International Journal of Nanomedicine,IV injection,lipid,PKH26,30,ug
+10.1021/acs.molpharmaceut.3c00460,37931251,2023,Molecular Pharmaceutics,IV injection,Fluoroscent,Cy7,100,ug
+10.1002/mco2.384,37752943,2023,MedComm,IV injection,lipid,DiD,150,ug
+10.1021/nn404945r,24383518,2014,ACS Nano,IV injection,Luciferase,Gluc (Gaussia luciferase),100,ug
+10.1002/advs.202304287,37867235,2023,Advanced Science,IV injection,lipid,DiR,50,ug
+10.1016/j.biomaterials.2016.07.003,27522254,2016,Biomaterials,IV injection,lipid,DiR,15,ug of EV
+10.3892/ijmm.2014.1663,24573178,2014,International Journal of Molecular Medicine,IV injection,lipid,DiD,200,ug
+,,,,SubQ,lipid,DiR,10,ug
+10.3389/fbioe.2022.949724,,2022,Frontiers in Bioengineering and Biotechnology,IN (intranasal) injection,lipid,PKH26,300000000,particles
+,,,,IN (intranasal) injection,lipid,DiR,60000000000,particles in 20 uL
+,,,,IN (intranasal) injection,Contrast Agent,gold,2800000000,particles
+10.1002/jev2.12438,38659363,2024,Journal of Extracellular Vesicles,IM,Fluoroscent,CY5.5-NHS,50,ug
+10.1161/CIRCULATIONAHA.123.066911,38487879,2024,Circulation,intramyocardial injection,Fluoroscent,ExoGlow,20,ug
+,,,,,,,100000000,particles/tumor
+,,,,IP (intraperitoneal) injection,lipid,DiR,600000000000,particles in 200 uL
+10.1016/j.ijpharm.2023.122974,37105241,2023,International Journal of Pharmaceutics,Oral,Fluoroscent,HiLyte Fluor 750,200000000000,particles / g
+10.1038/s41467-018-04791-8,29907766,2018,Nature Communications,IP (intraperitoneal) injection,lipid,DiD,1650000000000,particles
+10.1002/adtp.202400150,,2024,Advanced Therapeutics,Oral,lipid,DiD,5000000000,particles
+10.1038/ncomms13045,27721471,2016,Nature Communications,IV injection,Fluoroscent,CFSE ,100,ug EVs
+10.1038/s42003-020-0830-7,32157172,2020,Communications Biology,IV injection,Luciferase,Nanoluc luciferase,100,microliters of 1:10 diluted NanoLuc substrate
+10.1111/cas.13310,28667694,2017,Cancer Science,intratumorally,radio,125I-labeled,2,ug exosomes (37 kBq/mouse)
+10.1039/d3nr00795b,37067249,2023,Nanoscale,SC (sub cutaneous) injections,Quantum dot,PbS QD,50000000,particles
+10.3389/fphar.2022.1052091,,2022,Frontiers in Pharmacology,intramyocardial injection,Lipid,790-NHS-Esther & DiR,6000000000,particles
+10.1021/acsnano.0c09873,33470092,2021,ACS Nano,IV injection,Fluoroscent protein,mCherry,100000000000,particles
+,,,,IT (intrathecal) injection,lipid,DiR,150000000000,particles in 50 uL
+,,,,,lipid,DiR,100000000000,particles
+,,,,,radio,111In,100000000000,particles

@@ -1,0 +1,4 @@
+Category,Count,Label
+No_DoseResponse,87,Dose response not reported
+DoseResponse_NoIC50,9,Dose response reported
+IC50_Reported,4,IC50 reported

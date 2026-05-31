@@ -1,0 +1,48 @@
+category,subtype,value,doi,link,dye,attribution
+Peptide,,347.99,10.1186/s13045-022-01266-8,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85129047177&doi=10.1186%2fs13045-022-01266-8&partnerID=40&md5=4d6c5be5ad6d1b6877929e4016679283,,rank-best-effort
+Peptide,,55.56,10.1039/c9nr05865f,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85077016974&doi=10.1039%2fc9nr05865f&partnerID=40&md5=52452b36587b00ce26a354e008380f47,,rank-best-effort
+Peptide,,53.85,10.1016/j.bbagen.2018.02.001,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85041508627&doi=10.1016%2fj.bbagen.2018.02.001&partnerID=40&md5=ab6ffeb47bb92df925d582a8c113edec,,rank-best-effort
+Peptide,,33.67,,,,no source row (more plotted values than papers)
+Protein,,52.68,10.1016/j.bbagen.2018.02.001,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85041508627&doi=10.1016%2fj.bbagen.2018.02.001&partnerID=40&md5=ab6ffeb47bb92df925d582a8c113edec,,rank-best-effort
+Protein,,26.18,10.1002/ijc.35055,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85195578865&doi=10.1002%2fijc.35055&partnerID=40&md5=5cf8d5e892eeeaf599ee079f30bfe31f,,rank-best-effort
+Protein,,5.43,10.7150/THNO.59121,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85112214208&doi=10.7150%2fTHNO.59121&partnerID=40&md5=c28a18bdf6be43d3e4b2910b159bdc71,,rank-best-effort
+Small Molecules,,169.47,10.1016/j.canlet.2021.02.011,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85103321346&doi=10.1016%2fj.canlet.2021.02.011&partnerID=40&md5=1996e8edeeb30e7cc1c4a98c272d74f5,,rank-best-effort
+Small Molecules,,126.29,10.1080/20013078.2020.1806444,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85089690820&doi=10.1080%2f20013078.2020.1806444&partnerID=40&md5=65b0b69edf70d79f9799ab8a64f4b6fd,,rank-best-effort
+Small Molecules,,0.82,,,,no source row (more plotted values than papers)
+Aptamer,,53.26,https://doi.org/10.1016/j.lfs.2020.118369,https://www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S002432052031122X,,rank-best-effort
+Aptamer,,52.06,,,,no source row (more plotted values than papers)
+Native EVs,Non Cancer,76.03021978021975,10.1186/s13045-022-01266-8,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85129047177&doi=10.1186%2fs13045-022-01266-8&partnerID=40&md5=4d6c5be5ad6d1b6877929e4016679283,Fluorescence,exact
+Native EVs,Non Cancer,7.8503034827485525,10.7150/thno.65516,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85121922181&doi=10.7150%2fthno.65516&partnerID=40&md5=ea9c6ca7d39a5c0dcc744dbb4adf84c4,Fluorescence,exact
+Native EVs,Non Cancer,0.7247320001457754,10.7150/THNO.59121,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85112214208&doi=10.7150%2fTHNO.59121&partnerID=40&md5=c28a18bdf6be43d3e4b2910b159bdc71,Fluorescence,exact
+Native EVs,Non Cancer,98.40000000000062,10.1016/j.canlet.2021.02.011,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85103321346&doi=10.1016%2fj.canlet.2021.02.011&partnerID=40&md5=1996e8edeeb30e7cc1c4a98c272d74f5,Fluorescence,exact
+Native EVs,Non Cancer,82.08955223880614,10.1016/j.canlet.2021.02.011,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85103321346&doi=10.1016%2fj.canlet.2021.02.011&partnerID=40&md5=1996e8edeeb30e7cc1c4a98c272d74f5,Fluorescence,exact
+Native EVs,Non Cancer,124.35424354243538,10.1039/d0ra05630h,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85089558593&doi=10.1039%2fd0ra05630h&partnerID=40&md5=894b96289d547ef261030bd3d938ca77,Fluorescence,exact
+Native EVs,Non Cancer,0.19980019980022348,10.1016/j.biomaterials.2020.120152,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85085619335&doi=10.1016%2fj.biomaterials.2020.120152&partnerID=40&md5=f500c7de7f975b2ff7bd8fb66f72a61b,Fluorescence,exact
+Native EVs,Non Cancer,0.852424080980333,10.1016/j.biomaterials.2020.120152,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85085619335&doi=10.1016%2fj.biomaterials.2020.120152&partnerID=40&md5=f500c7de7f975b2ff7bd8fb66f72a61b,Fluorescence,exact
+Native EVs,Non Cancer,143.28358208955234,10.7150/thno.33183,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85070484426&doi=10.7150%2fthno.33183&partnerID=40&md5=b9eb28f1685ce9f17390c7652c9622e8,Fluorescence,exact
+Native EVs,Non Cancer,43.520782396088066,10.7150/thno.37220,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85074338195&doi=10.7150%2fthno.37220&partnerID=40&md5=b0a9a73c8951906f2697f961354b7fdb,Fluorescence,exact
+Native EVs,Non Cancer,87.4074074074074,10.2147/IJN.S182384,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85058598082&doi=10.2147%2fIJN.S182384&partnerID=40&md5=08d402ede3c4e5276499cabd8c549717,Fluorescence,exact
+Native EVs,Non Cancer,95.30685920577605,,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85058598082&doi=10.2147%2fIJN.S182384&partnerID=40&md5=08d402ede3c4e5276499cabd8c549717,Fluorescence,exact
+Native EVs,Non Cancer,64.60176991150436,,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85058598082&doi=10.2147%2fIJN.S182384&partnerID=40&md5=08d402ede3c4e5276499cabd8c549717,Fluorescence,exact
+Native EVs,Non Cancer,103.7383177570095,,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85058598082&doi=10.2147%2fIJN.S182384&partnerID=40&md5=08d402ede3c4e5276499cabd8c549717,Fluorescence,exact
+Native EVs,Non Cancer,49.40471618403871,10.1016/j.lfs.2020.118369,https://www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S002432052031122X,Fluorescence,exact
+Native EVs,Non Cancer,48.358415765367,,https://www-sciencedirect-com.libproxy.lib.unc.edu/science/article/pii/S002432052031122X,Fluorescence,exact
+Native EVs,Non Cancer,16.583133718830688,10.1002/ijc.35055,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85195578865&doi=10.1002%2fijc.35055&partnerID=40&md5=5cf8d5e892eeeaf599ee079f30bfe31f,Fluorescence,exact
+Native EVs,Non Cancer,80.1011804384489,10.3390/pharmaceutics15092297,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85172677720&doi=10.3390%2fpharmaceutics15092297&partnerID=40&md5=0ebd10e7feb4300e6a2134595698c61c,Fluorescence,exact
+Native EVs,Cancer,1.3840830449827022,10.1016/j.actbio.2019.10.022,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85074420689&doi=10.1016%2fj.actbio.2019.10.022&partnerID=40&md5=3d0f8d94036e9a961aa190c83de9741b,Fluorescence,exact
+Native EVs,Cancer,21.981981981982006,,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85074420689&doi=10.1016%2fj.actbio.2019.10.022&partnerID=40&md5=3d0f8d94036e9a961aa190c83de9741b,Fluorescence,exact
+Native EVs,Cancer,33.61522198731501,,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85074420689&doi=10.1016%2fj.actbio.2019.10.022&partnerID=40&md5=3d0f8d94036e9a961aa190c83de9741b,Fluorescence,exact
+Native EVs,Cancer,157.97101449275374,10.1016/j.ijpharm.2019.118786,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85074026624&doi=10.1016%2fj.ijpharm.2019.118786&partnerID=40&md5=40de882837d451b6fd6ecdbba5291da0,Fluorescence,exact
+Native EVs,Cancer,86.19163176935497,10.7150/thno.34824,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85070484439&doi=10.7150%2fthno.34824&partnerID=40&md5=1e96cc2cc0c9b141baa7994f79adcf22,Fluorescence,exact
+Native EVs,Cancer,99.76592630564006,,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85070484439&doi=10.7150%2fthno.34824&partnerID=40&md5=1e96cc2cc0c9b141baa7994f79adcf21,Fluorescence,exact
+Native EVs,Cancer,108.01904663647657,,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85070484439&doi=10.7150%2fthno.34824&partnerID=40&md5=1e96cc2cc0c9b141baa7994f79adcf22,Fluorescence,exact
+Native EVs,Cancer,91.13924050632902,10.7150/thno.33183,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85070484426&doi=10.7150%2fthno.33183&partnerID=40&md5=b9eb28f1685ce9f17390c7652c9622e8,Fluorescence,exact
+Native EVs,Cancer,191.5662650602412,,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85070484426&doi=10.7150%2fthno.33183&partnerID=40&md5=b9eb28f1685ce9f17390c7652c9622e8,Fluorescence,exact
+Native EVs,Cancer,273.6111111111108,,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85070484426&doi=10.7150%2fthno.33183&partnerID=40&md5=b9eb28f1685ce9f17390c7652c9622e8,Fluorescence,exact
+Native EVs,Cancer,139.99999999999991,10.1016/j.jconrel.2018.12.022,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85058505933&doi=10.1016%2fj.jconrel.2018.12.022&partnerID=40&md5=9ac7ed4fdc8cecae9a97b87f135a63cf,Fluorescence,exact
+Native EVs,Cancer,53.191489361701926,,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85058505933&doi=10.1016%2fj.jconrel.2018.12.022&partnerID=40&md5=9ac7ed4fdc8cecae9a97b87f135a63cf,Fluorescence,exact
+Native EVs,Cancer,18.446601941747584,10.1016/j.bbagen.2018.02.001,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85041508627&doi=10.1016%2fj.bbagen.2018.02.001&partnerID=40&md5=ab6ffeb47bb92df925d582a8c113edec,Fluorescence,exact
+Native EVs,Cancer,14.068441064638767,,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85041508627&doi=10.1016%2fj.bbagen.2018.02.001&partnerID=40&md5=ab6ffeb47bb92df925d582a8c113edec,Fluorescence,exact
+Native EVs,Cancer,33.103448275862114,,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85041508627&doi=10.1016%2fj.bbagen.2018.02.001&partnerID=40&md5=ab6ffeb47bb92df925d582a8c113edec,Fluorescence,exact
+Native EVs,Cancer,23.448275862068982,,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85041508627&doi=10.1016%2fj.bbagen.2018.02.001&partnerID=40&md5=ab6ffeb47bb92df925d582a8c113edec,Fluorescence,exact
+Native EVs,Cancer,18.918918918918916,,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85032465409&doi=10.1038%2fs41598-017-14725-x&partnerID=40&md5=530e193bbce3f0d07a8c348b07306f45,Fluorescence,exact

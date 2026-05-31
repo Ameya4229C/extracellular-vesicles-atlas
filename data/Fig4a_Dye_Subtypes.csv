@@ -1,0 +1,23 @@
+Dye_Subtype,Number_of_Papers,Dye_Type
+Cyanine,10,Fluoroscence
+Alexa Flour,2,Fluoroscence
+Other,14,Fluoroscence
+HiLyte,2,Fluoroscence
+Gold,3,Contrast agents
+Palladium,1,Contrast agents
+Gadolinium,1,Contrast agents
+mCherry,2,Fluoroscent protein
+RFP,2,Fluoroscent protein
+DiR,54,Lipid Dye
+DiD,11,Lipid Dye
+DiI,2,Lipid Dye
+PKH,7,Lipid Dye
+Nanoluc,5,Luciferase
+Thermoluc,1,Luciferase
+Gaussia,1,Luciferase
+Renilla,1,Luciferase
+Quantum Dot,6,Quantum Dot
+Iodine,8,Radio
+Indium,4,Radio
+Zirconium,3,Radio
+RNA Quantification,1,RT-qPCR

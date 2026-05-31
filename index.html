@@ -1,0 +1,257 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>The status of extracellular vesicles as drug carriers and therapeutics — interactive figures</title>
+  <meta name="description" content="Interactive, searchable versions of Figures 1–3 from Chaudhari et al., Nature Reviews Bioengineering. Hover or click points to find the underlying source." />
+  <link rel="stylesheet" href="css/style.css" />
+  <script src="https://cdn.plot.ly/plotly-2.35.2.min.js" charset="utf-8"></script>
+</head>
+<body>
+  <header class="site-header">
+    <p class="eyebrow">Nature Reviews Bioengineering · Review article · 2026</p>
+    <h1>The status of extracellular vesicles as drug carriers and therapeutics</h1>
+    <p class="authors">
+      Ameya P. Chaudhari, Omar M. Budayr, Emily E. Bonacquisti, Caden C. Kussatz,
+      Mark S. Bannon, Karissa J. Law, Yusha Liu, Matthew L. Bolton,
+      Patrick M. Glassman, Leaf Huang, Juliane Nguyen
+    </p>
+    <p class="doi">
+      DOI <a href="https://doi.org/10.1038/s44222-026-00405-x" target="_blank" rel="noopener">10.1038/s44222-026-00405-x</a>
+      &nbsp;·&nbsp;
+      <a id="paper-link" href="https://www.nature.com/articles/s44222-026-00405-x" target="_blank" rel="noopener">Read the paper</a>
+    </p>
+    <h2 class="lede-heading">How to interact with these figures:</h2>
+    <p class="lede">
+      The figures below are interactive replots of Figures 1–5 from the review.
+      Hover any point for details; on figures with per-study data
+      (clinical trials, loading-capacity studies, siRNA dose-response, mouse
+      biodistribution), <strong>click a point to open the source paper or
+      trial registration</strong>. Aggregate bars (article counts) are hover-only.
+      To get a closer look, <strong>click and hold to draw a box around any
+      region of interest to zoom in</strong> — double-click anywhere on the plot
+      to reset the view.
+    </p>
+    <nav class="figjump">
+      <a href="#fig1">Fig. 1</a>
+      <a href="#fig2">Fig. 2</a>
+      <a href="#fig3">Fig. 3</a>
+      <a href="#fig4">Fig. 4</a>
+      <a href="#fig5">Fig. 5</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="fig1" class="figure">
+      <h2>Figure 1 · Preclinical research on extracellular vesicles</h2>
+      <div class="subfigure">
+        <h3>a · Research articles 2012–2024 by category</h3>
+        <div id="fig1a" class="plot"></div>
+        <p class="cap">
+          Articles in PubMed mentioning <em>exosome*</em> or <em>extracellular vesicle*</em>,
+          classified into four key categories: diagnostics, therapeutics (and drug carriers),
+          mechanistic roles, and method or protocol development.
+        </p>
+      </div>
+      <div class="subfigure">
+        <h3>b · Articles by donor cell type</h3>
+        <div id="fig1b" class="plot tall"></div>
+        <p class="cap">
+          Original research articles categorised by EV donor cell type, split into total papers
+          and the subset focused on therapeutic applications. CNS, central nervous system;
+          HEK, human embryonic kidney.
+        </p>
+      </div>
+    </section>
+
+    <section id="fig2" class="figure">
+      <h2>Figure 2 · Clinical research on therapeutic EVs</h2>
+      <div class="subfigure">
+        <h3>a · Overview of 338 clinical studies by study aim</h3>
+        <div id="fig2a" class="plot short"></div>
+        <p class="cap">
+          338 clinical studies categorised by aim: EVs administered as therapeutics (44%),
+          mechanistic studies (36.5%) and diagnostic studies (19.5%).
+        </p>
+      </div>
+      <div class="subfigure">
+        <h3>b · EV doses administered in clinical trials</h3>
+        <div id="fig2b" class="plot"></div>
+        <p class="cap">
+          Highest single-dose level for every trial that reports a numeric dose,
+          grouped by route of administration. Points are split between particle-based and
+          weight-based reporting (separate panels). <strong>Click any point to open the
+          ClinicalTrials.gov registration.</strong> Per-kg units are scaled to a 70 kg adult;
+          per-volume units (e.g. <em>EVs/mL</em>) are omitted because the total volume is
+          not consistently reported.
+        </p>
+      </div>
+    </section>
+
+    <section id="fig3" class="figure">
+      <h2>Figure 3 · EVs as drug carriers</h2>
+      <div class="subfigure">
+        <h3>a · Drug-loading methods used</h3>
+        <div id="fig3a" class="plot"></div>
+        <p class="cap">
+          Number of studies using each drug-loading method (case-folded so e.g.
+          <em>Sonication</em> and <em>sonication</em> are merged).
+        </p>
+      </div>
+      <div class="subfigure">
+        <h3>c · Loading capacity (%LC) by method and molecule class</h3>
+        <div id="fig3bc" class="plot tall"></div>
+        <p class="cap">
+          Reported loading capacity (% w/w, log scale) for every study with a usable value,
+          grouped by loading method and coloured by molecule class.
+          <strong>Click any point to open the source paper.</strong>
+        </p>
+      </div>
+      <div class="subfigure">
+        <h3>e · siRNA dose-response reporting</h3>
+        <div class="split">
+          <div id="fig3e-donut" class="plot short"></div>
+          <div id="fig3e-table-wrap">
+            <p class="table-intro">Per-paper detail (98 unique studies). Click any row to open the paper.</p>
+            <input id="fig3e-search" type="search" placeholder="filter by recipient cell, target, year…" />
+            <div id="fig3e-table"></div>
+          </div>
+        </div>
+        <p class="cap">
+          Of 98 articles that delivered siRNA via EVs, only a small fraction reports a full
+          dose-response curve or an IC<sub>50</sub>. The donut summarises this; the table
+          below lists every study so each can be opened individually.
+        </p>
+      </div>
+    </section>
+    <section id="fig4" class="figure">
+      <h2>Figure 4 · <em>In vivo</em> biodistribution of EVs in murine models</h2>
+      <div class="subfigure">
+        <h3>a · Labelling methods used to track EVs <em>in vivo</em></h3>
+        <div id="fig4a" class="plot"></div>
+        <p class="cap">
+          Distribution of dye/tag types used across all reviewed biodistribution studies in mice.
+        </p>
+      </div>
+      <div class="subfigure">
+        <h3>b · EV doses used in mice by route of administration</h3>
+        <div id="fig4b" class="plot"></div>
+        <p class="cap">
+          Reported dose per study, grouped by route. Only doses expressed as
+          particle number per mouse (left, log axis) or µg of exosomal protein
+          per mouse (right, linear axis) are shown; doses reported only as a
+          volume (µL/mL), a concentration (particles/mL) or other units are
+          omitted because they cannot be placed on a per-mouse scale. Per-kg and
+          per-body-weight values are scaled to a 25 g mouse. <strong>Click any
+          point to open the paper.</strong>
+        </p>
+      </div>
+      <div class="subfigure">
+        <h3>c · MSC-EV biodistribution (0–6 h post-IV)</h3>
+        <div id="fig4c" class="plot tall"></div>
+        <p class="cap">
+          For each organ, every point is one study reporting accumulation of MSC EVs after IV
+          administration. Y-axis is the per-organ signal normalised to the study's combined
+          <strong>liver + spleen</strong> signal — i.e. <em>organ signal ÷ (liver + spleen)
+          × 100</em>. This places studies reported in different absolute units (photons/s,
+          SNR, %ID/g, …) on the same scale. <strong>Click any point to open the paper.</strong>
+        </p>
+      </div>
+      <div class="subfigure">
+        <h3>d · HEK-EV biodistribution (0–6 h post-IV)</h3>
+        <div id="fig4d" class="plot tall"></div>
+        <p class="cap">
+          Same construction as Fig 4c, restricted to HEK-derived EVs. <strong>Click any point
+          to open the paper.</strong>
+        </p>
+      </div>
+    </section>
+
+    <section id="fig5" class="figure">
+      <h2>Figure 5 · <em>In vivo</em> biodistribution by cell source</h2>
+      <div class="subfigure">
+        <h3>a · Biodistribution 2–12 h post-IV, by cell source</h3>
+        <div id="fig5a" class="plot tall"></div>
+        <p class="cap">
+          Each point is one study × organ. Colour encodes the EV cell source. Y-axis is the
+          per-organ signal normalised to the study's combined <strong>liver + spleen</strong>
+          signal (<em>organ ÷ (liver + spleen) × 100</em>).
+          <strong>Click any point to open the paper.</strong>
+        </p>
+      </div>
+      <div class="subfigure">
+        <h3>b · Biodistribution at 24 h post-IV, by cell source</h3>
+        <div id="fig5b" class="plot tall"></div>
+        <p class="cap">
+          Same construction as Fig 5a, restricted to 24 h time points. <strong>Click any point
+          to open the paper.</strong>
+        </p>
+      </div>
+      <div class="subfigure">
+        <h3>c · Tumour accumulation: cancerous vs non-cancerous EV source</h3>
+        <div id="fig5c" class="plot"></div>
+        <p class="cap">
+          Each point is one study reporting tumour accumulation of unmodified EVs, with
+          the donor cell binned into cancerous and non-cancerous categories.
+          <strong>Click any point to open the paper.</strong>
+        </p>
+      </div>
+      <div class="subfigure">
+        <h3>d · Engineered vs native EVs across tumour and MPS organs</h3>
+        <div id="fig5d" class="plot"></div>
+        <p class="cap">
+          Tumour accumulation of native EVs and surface-engineered EVs (peptide-,
+          protein-, small-molecule- and aptamer-conjugated), expressed as %
+          signal from tumour relative to mononuclear phagocyte system (MPS)
+          organs. <strong>Click any point to open the paper.</strong>
+          Native-EV points are wired to their DOI via the curated cancer /
+          non-cancer source. Engineered-EV DOIs are attributed by rank-matching
+          against the source's computed Tumor / MPS values (best-effort).
+        </p>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="site-footer">
+    <p>
+      Source data and a CSV of every figure are in the
+      <code>data/</code> directory of this site's repository. The preprocessor
+      (<code>build_data.py</code>) shows exactly how the CSVs become these plots.
+    </p>
+    <p>
+      Suggested citation: Chaudhari, A. P. <em>et al.</em>
+      The status of extracellular vesicles as drug carriers and therapeutics.
+      <em>Nature Reviews Bioengineering</em> (2026).
+      <a href="https://doi.org/10.1038/s44222-026-00405-x" target="_blank" rel="noopener">doi.org/10.1038/s44222-026-00405-x</a>
+    </p>
+    <p class="disclaimer">
+      <strong>Disclaimer:</strong> this companion site was generated with
+      <a href="https://claude.com/claude-code" target="_blank" rel="noopener">Claude Code</a>
+      from the article's source data. Plots are interactive replots of the
+      published figures and may contain inaccuracies introduced during
+      automated extraction or rendering. Please verify any value of interest
+      against the source data and the original publication before citing or
+      acting on it.
+    </p>
+  </footer>
+
+  <script src="js/fig1a.js?v=45"></script>
+  <script src="js/fig1b.js?v=45"></script>
+  <script src="js/fig2a.js?v=45"></script>
+  <script src="js/fig2b.js?v=45"></script>
+  <script src="js/fig3a.js?v=45"></script>
+  <script src="js/fig3bc.js?v=45"></script>
+  <script src="js/fig3e.js?v=45"></script>
+  <script src="js/fig4a.js?v=45"></script>
+  <script src="js/fig4b.js?v=45"></script>
+  <script src="js/fig4c.js?v=45"></script>
+  <script src="js/fig4d.js?v=45"></script>
+  <script src="js/fig5a.js?v=45"></script>
+  <script src="js/fig5b.js?v=45"></script>
+  <script src="js/fig5c.js?v=45"></script>
+  <script src="js/fig5d.js?v=45"></script>
+  <script src="js/plots.js?v=45"></script>
+</body>
+</html>
